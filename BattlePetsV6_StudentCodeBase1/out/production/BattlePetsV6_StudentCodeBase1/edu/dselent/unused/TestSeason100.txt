@@ -1,0 +1,603 @@
+4
+101
+7654
+100
+35
+1
+JELLYBEAN_ASTRONAUTS
+Aroogla
+100
+2
+2
+Player 2
+Pet 2
+100
+2
+2
+3
+Player 3
+Pet 3
+100
+3
+2
+1
+Player 4
+Pet 4
+100
+4
+2
+2
+Player 5
+Pet 5
+100
+5
+2
+3
+Player 6
+Pet 6
+100
+6
+2
+1
+Player 7
+Pet 7
+100
+7
+2
+2
+Player 8
+Pet 8
+100
+8
+2
+3
+Player 9
+Pet 9
+100
+9
+2
+1
+Player 10
+Pet 10
+100
+10
+2
+2
+Player 11
+Pet 11
+100
+11
+2
+3
+Player 12
+Pet 12
+100
+12
+2
+1
+Player 13
+Pet 13
+100
+13
+2
+2
+Player 14
+Pet 14
+100
+14
+2
+3
+Player 15
+Pet 15
+100
+15
+2
+1
+Player 16
+Pet 16
+100
+16
+2
+2
+Player 17
+Pet 17
+100
+17
+2
+3
+Player 18
+Pet 18
+100
+18
+2
+1
+Player 19
+Pet 19
+100
+19
+2
+2
+Player 20
+Pet 20
+100
+20
+2
+3
+Player 21
+Pet 21
+100
+21
+2
+1
+Player 22
+Pet 22
+100
+22
+2
+2
+Player 23
+Pet 23
+100
+23
+2
+3
+Player 24
+Pet 24
+100
+24
+2
+1
+Player 25
+Pet 25
+100
+25
+2
+2
+Player 26
+Pet 26
+100
+26
+2
+3
+Player 27
+Pet 27
+100
+27
+2
+1
+Player 28
+Pet 28
+100
+28
+2
+2
+Player 29
+Pet 29
+100
+29
+2
+3
+Player 30
+Pet 30
+100
+30
+2
+1
+Player 31
+Pet 31
+100
+31
+2
+2
+Player 32
+Pet 32
+100
+32
+2
+3
+Player 33
+Pet 33
+100
+33
+2
+1
+Player 34
+Pet 34
+100
+34
+2
+2
+Player 35
+Pet 35
+100
+35
+2
+3
+Player 36
+Pet 36
+100
+36
+2
+1
+Player 37
+Pet 37
+100
+37
+2
+2
+Player 38
+Pet 38
+100
+38
+2
+3
+Player 39
+Pet 39
+100
+39
+2
+1
+Player 40
+Pet 40
+100
+40
+2
+2
+Player 41
+Pet 41
+100
+41
+2
+3
+Player 42
+Pet 42
+100
+42
+2
+1
+Player 43
+Pet 43
+100
+43
+2
+2
+Player 44
+Pet 44
+100
+44
+2
+3
+Player 45
+Pet 45
+100
+45
+2
+1
+Player 46
+Pet 46
+100
+46
+2
+2
+Player 47
+Pet 47
+100
+47
+2
+3
+Player 48
+Pet 48
+100
+48
+2
+1
+Player 49
+Pet 49
+100
+49
+2
+2
+Player 50
+Pet 50
+100
+50
+2
+3
+Player 51
+Pet 51
+100
+51
+2
+1
+Player 52
+Pet 52
+100
+52
+2
+2
+Player 53
+Pet 53
+100
+53
+2
+3
+Player 54
+Pet 54
+100
+54
+2
+1
+Player 55
+Pet 55
+100
+55
+2
+2
+Player 56
+Pet 56
+100
+56
+2
+3
+Player 57
+Pet 57
+100
+57
+2
+1
+Player 58
+Pet 58
+100
+58
+2
+2
+Player 59
+Pet 59
+100
+59
+2
+3
+Player 60
+Pet 60
+100
+60
+2
+1
+Player 61
+Pet 61
+100
+61
+2
+2
+Player 62
+Pet 62
+100
+62
+2
+3
+Player 63
+Pet 63
+100
+63
+2
+1
+Player 64
+Pet 64
+100
+64
+2
+2
+Player 65
+Pet 65
+100
+65
+2
+3
+Player 66
+Pet 66
+100
+66
+2
+1
+Player 67
+Pet 67
+100
+67
+2
+2
+Player 68
+Pet 68
+100
+67
+2
+3
+Player 69
+Pet 69
+100
+69
+2
+1
+Player 70
+Pet 70
+100
+70
+2
+2
+Player 71
+Pet 71
+100
+71
+2
+3
+Player 72
+Pet 72
+100
+72
+2
+1
+Player 73
+Pet 73
+100
+73
+2
+2
+Player 74
+Pet 74
+100
+74
+2
+3
+Player 75
+Pet 75
+100
+75
+2
+1
+Player 76
+Pet 76
+100
+76
+2
+2
+Player 77
+Pet 77
+100
+77
+2
+3
+Player 78
+Pet 78
+100
+78
+2
+1
+Player 79
+Pet 79
+100
+79
+2
+2
+Player 80
+Pet 80
+100
+80
+2
+3
+Player 81
+Pet 81
+100
+81
+2
+1
+Player 82
+Pet 82
+100
+82
+2
+2
+Player 83
+Pet 83
+100
+83
+2
+3
+Player 84
+Pet 84
+100
+84
+2
+1
+Player 85
+Pet 85
+100
+85
+2
+2
+Player 86
+Pet 86
+100
+86
+2
+3
+Player 87
+Pet 87
+100
+87
+2
+1
+Player 88
+Pet 88
+100
+88
+2
+2
+Player 89
+Pet 89
+100
+89
+2
+3
+Player 90
+Pet 90
+100
+90
+2
+1
+Player 91
+Pet 91
+100
+91
+2
+2
+Player 92
+Pet 92
+100
+92
+2
+3
+Player 93
+Pet 93
+100
+93
+2
+1
+Player 94
+Pet 94
+100
+94
+2
+2
+Player 95
+Pet 95
+100
+95
+2
+3
+Player 96
+Pet 96
+100
+96
+2
+1
+Player 97
+Pet 97
+100
+97
+2
+2
+Player 98
+Pet 98
+100
+98
+2
+3
+Player 99
+Pet 99
+100
+99
+2
+1
+Player 100
+Pet 100
+100
+100

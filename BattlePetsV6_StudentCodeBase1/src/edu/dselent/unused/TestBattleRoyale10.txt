@@ -1,0 +1,63 @@
+2
+11
+9876
+10
+51
+1
+Special
+Special
+100
+2
+1
+Computer 2
+Computer Pet 2
+100
+2
+2
+2
+Computer 3
+Computer Pet 3
+100
+3
+2
+3
+Computer 4
+Computer Pet 4
+100
+4
+2
+1
+Computer 5
+Computer Pet 5
+100
+5
+2
+2
+Computer 6
+Computer Pet 6
+100
+6
+2
+3
+Computer 7
+Computer Pet 7
+100
+7
+2
+1
+Computer 8
+Computer Pet 8
+100
+8
+2
+2
+Computer 9
+Computer Pet 9
+100
+9
+2
+3
+Computer 10
+Computer Pet 10
+100
+10
